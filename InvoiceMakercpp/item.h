@@ -14,7 +14,7 @@ public:
 	int getPrice();
 
 	void setId(int newId);
-	void setType(int newType);
+	void setType(std::string newType);
 	void setPrice(int newPrice);
 };
 
